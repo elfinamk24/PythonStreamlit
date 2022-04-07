@@ -5,7 +5,7 @@ import pandas as pd
 st.write("""
 # Stock Price App Lite Version
 
-Microsoft stock closing price and column!
+Microsoft stock closing price and column yeay!
 
 """)
 
